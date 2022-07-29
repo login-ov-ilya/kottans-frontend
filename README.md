@@ -13,6 +13,8 @@ I used to work with Git a while ago, but I hadn't practiced it until now and onl
 <summary> learngitbranching.js.org</summary>
 
 
+![image](https://github.com/login-ov-ilya/kottans-frontend/blob/6a73656e00c220f1b39efb28ba34401845720415/Git%20Basics%20scrin/main.jpg)
+
 </details>
 
 </details>
